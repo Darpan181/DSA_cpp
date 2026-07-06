@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
+| [1470-shuffle-the-array](https://github.com/Darpan181/DSA_cpp/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
