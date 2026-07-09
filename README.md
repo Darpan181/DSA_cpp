@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
+| [0283-move-zeroes](https://github.com/Darpan181/DSA_cpp/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Darpan181/DSA_cpp/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/Darpan181/DSA_cpp/tree/master/1470-shuffle-the-array) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Darpan181/DSA_cpp/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
