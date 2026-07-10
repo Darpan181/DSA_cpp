@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0283-move-zeroes](https://github.com/Darpan181/DSA_cpp/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Darpan181/DSA_cpp/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
@@ -65,8 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Darpan181/DSA_cpp/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
