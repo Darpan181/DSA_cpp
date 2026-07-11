@@ -7,19 +7,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
 |  |
 | ------- |
