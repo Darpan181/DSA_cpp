@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0283-move-zeroes](https://github.com/Darpan181/DSA_cpp/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Darpan181/DSA_cpp/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
 | [1463-cherry-pickup-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1463-cherry-pickup-ii) |
 ## Stack
 |  |
