@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
+| [0516-longest-palindromic-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Darpan181/DSA_cpp/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1463-cherry-pickup-ii) |
