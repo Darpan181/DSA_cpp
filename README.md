@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Darpan181/DSA_cpp/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Darpan181/DSA_cpp/tree/master/0115-distinct-subsequences) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Darpan181/DSA_cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Darpan181/DSA_cpp/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Darpan181/DSA_cpp/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Darpan181/DSA_cpp/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Darpan181/DSA_cpp/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
