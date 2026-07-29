@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Darpan181/DSA_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Darpan181/DSA_cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Darpan181/DSA_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Darpan181/DSA_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0300-longest-increasing-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Darpan181/DSA_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
