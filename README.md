@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Darpan181/DSA_cpp/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Darpan181/DSA_cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1463-cherry-pickup-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
+| [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Darpan181/DSA_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Darpan181/DSA_cpp/tree/master/0460-lfu-cache) |
+| [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Darpan181/DSA_cpp/tree/master/0283-move-zeroes) |
+| [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Darpan181/DSA_cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Darpan181/DSA_cpp/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Darpan181/DSA_cpp/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Darpan181/DSA_cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Darpan181/DSA_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Darpan181/DSA_cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Darpan181/DSA_cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Darpan181/DSA_cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Darpan181/DSA_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
