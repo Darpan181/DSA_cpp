@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Darpan181/DSA_cpp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Darpan181/DSA_cpp/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0260-single-number-iii](https://github.com/Darpan181/DSA_cpp/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Darpan181/DSA_cpp/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Darpan181/DSA_cpp/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -259,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Darpan181/DSA_cpp/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Darpan181/DSA_cpp/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Darpan181/DSA_cpp/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
