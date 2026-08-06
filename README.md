@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Darpan181/DSA_cpp/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Darpan181/DSA_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/Darpan181/DSA_cpp/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Darpan181/DSA_cpp/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Darpan181/DSA_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Darpan181/DSA_cpp/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
