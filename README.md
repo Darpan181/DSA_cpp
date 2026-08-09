@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Darpan181/DSA_cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Darpan181/DSA_cpp/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Darpan181/DSA_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Darpan181/DSA_cpp/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Darpan181/DSA_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Darpan181/DSA_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Darpan181/DSA_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
@@ -271,4 +275,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Darpan181/DSA_cpp/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Darpan181/DSA_cpp/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Darpan181/DSA_cpp/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
