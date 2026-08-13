@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Darpan181/DSA_cpp/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1929-concatenation-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Darpan181/DSA_cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Darpan181/DSA_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Darpan181/DSA_cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Darpan181/DSA_cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Darpan181/DSA_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Darpan181/DSA_cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Darpan181/DSA_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darpan181/DSA_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darpan181/DSA_cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Darpan181/DSA_cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Game Theory
 |  |
 | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Darpan181/DSA_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Darpan181/DSA_cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
