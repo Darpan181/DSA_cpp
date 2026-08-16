@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Darpan181/DSA_cpp/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1929-concatenation-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Darpan181/DSA_cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Darpan181/DSA_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Darpan181/DSA_cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Darpan181/DSA_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Darpan181/DSA_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Darpan181/DSA_cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Darpan181/DSA_cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Darpan181/DSA_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darpan181/DSA_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darpan181/DSA_cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darpan181/DSA_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Darpan181/DSA_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Indexed Tree
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -297,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Darpan181/DSA_cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
