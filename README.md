@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/Darpan181/DSA_cpp/tree/master/1470-shuffle-the-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Darpan181/DSA_cpp/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Darpan181/DSA_cpp/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Darpan181/DSA_cpp/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Darpan181/DSA_cpp/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darpan181/DSA_cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Darpan181/DSA_cpp/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Darpan181/DSA_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Darpan181/DSA_cpp/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Darpan181/DSA_cpp/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Darpan181/DSA_cpp/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
