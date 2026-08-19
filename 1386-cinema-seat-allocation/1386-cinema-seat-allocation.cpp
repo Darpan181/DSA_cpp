@@ -1,44 +1,56 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int, int> rows;
-
-        // Store which seats are reserved for each row.
-        for (auto &r : reservedSeats) {
-            int row = r[0];
-            int seat = r[1];
-
-            // Only seats 2-9 matter.
-            if (seat >= 2 && seat <= 9) {
-                rows[row] |= (1 << seat);
+        int m=reservedSeats.size();
+        unordered_map<int,vector<int>>mpp;
+        for(int i=0;i<m;i++)
+        {
+            int row=reservedSeats[i][0];
+            int seat=reservedSeats[i][1];
+            mpp[row].push_back(seat);
+        }
+        int groups=0;
+        for(auto it:mpp)
+        {
+            int row=it.first;
+            auto seats=it.second;
+            set<int>st;
+            for(auto i:seats)
+            {
+                st.insert(i);
             }
+            bool left=true;
+            bool right=true;
+            bool mid=true;
+            for(auto seat:st)
+            {
+                if(seat>=2 && seat<=5)
+                {
+                    left=false;
+                }
+                if(seat>=4 && seat<=7)
+                {
+                    mid=false;
+                }
+                if(seat>=6 && seat<=9)
+                {
+                    right=false;
+                }
+            }
+            int count=0;
+            if(left)count++;
+            if(right)count++;
+            if(!left && mid && !right)
+            {
+                count=1;
+            }
+            groups+=count;
+
         }
-
-        // Every row without reservations can fit 2 families.
-        int ans = (n - rows.size()) * 2;
-
-        for (auto &[row, mask] : rows) {
-            bool left  = !(mask & (1 << 2) ||
-                           mask & (1 << 3) ||
-                           mask & (1 << 4) ||
-                           mask & (1 << 5));
-
-            bool middle = !(mask & (1 << 4) ||
-                            mask & (1 << 5) ||
-                            mask & (1 << 6) ||
-                            mask & (1 << 7));
-
-            bool right = !(mask & (1 << 6) ||
-                           mask & (1 << 7) ||
-                           mask & (1 << 8) ||
-                           mask & (1 << 9));
-
-            if (left && right)
-                ans += 2;
-            else if (left || middle || right)
-                ans += 1;
+        if(mpp.size()<n)
+        {
+            groups+=(n-mpp.size())*2;
         }
-
-        return ans;
+        return groups;
     }
 };
