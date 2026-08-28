@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Darpan181/DSA_cpp/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Darpan181/DSA_cpp/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Darpan181/DSA_cpp/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0300-longest-increasing-subsequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -362,6 +364,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Darpan181/DSA_cpp/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Darpan181/DSA_cpp/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
