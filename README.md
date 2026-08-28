@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Darpan181/DSA_cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/Darpan181/DSA_cpp/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
@@ -356,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Darpan181/DSA_cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Darpan181/DSA_cpp/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
