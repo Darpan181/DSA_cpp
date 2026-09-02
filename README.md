@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Darpan181/DSA_cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Darpan181/DSA_cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Darpan181/DSA_cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Darpan181/DSA_cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Darpan181/DSA_cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Darpan181/DSA_cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Darpan181/DSA_cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Darpan181/DSA_cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
