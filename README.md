@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Darpan181/DSA_cpp/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Darpan181/DSA_cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Darpan181/DSA_cpp/tree/master/0115-distinct-subsequences) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Darpan181/DSA_cpp/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/Darpan181/DSA_cpp/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Darpan181/DSA_cpp/tree/master/0486-predict-the-winner) |
