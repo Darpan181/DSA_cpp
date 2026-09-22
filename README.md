@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
+| [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darpan181/DSA_cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Darpan181/DSA_cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Darpan181/DSA_cpp/tree/master/1470-shuffle-the-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Darpan181/DSA_cpp/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Darpan181/DSA_cpp/tree/master/1563-stone-game-v) |
+| [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/Darpan181/DSA_cpp/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darpan181/DSA_cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1463-cherry-pickup-ii) |
+| [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Darpan181/DSA_cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0300-longest-increasing-subsequence) |
+| [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Darpan181/DSA_cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
@@ -425,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Darpan181/DSA_cpp/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Darpan181/DSA_cpp/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Divide and Conquer
 |  |
@@ -439,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Darpan181/DSA_cpp/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Darpan181/DSA_cpp/tree/master/1401-circle-and-rectangle-overlapping) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
