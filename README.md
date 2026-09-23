@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darpan181/DSA_cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Darpan181/DSA_cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Darpan181/DSA_cpp/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Darpan181/DSA_cpp/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Darpan181/DSA_cpp/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -458,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
