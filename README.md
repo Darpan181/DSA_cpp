@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Darpan181/DSA_cpp/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0460-lfu-cache](https://github.com/Darpan181/DSA_cpp/tree/master/0460-lfu-cache) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Darpan181/DSA_cpp/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darpan181/DSA_cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Darpan181/DSA_cpp/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Darpan181/DSA_cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Darpan181/DSA_cpp/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Darpan181/DSA_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1927-sum-game](https://github.com/Darpan181/DSA_cpp/tree/master/1927-sum-game) |
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Darpan181/DSA_cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
