@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darpan181/DSA_cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Darpan181/DSA_cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Darpan181/DSA_cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
