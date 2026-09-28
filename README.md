@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
+| [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
+| [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Darpan181/DSA_cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [0746-min-cost-climbing-stairs](https://github.com/Darpan181/DSA_cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Darpan181/DSA_cpp/tree/master/1046-last-stone-weight) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
@@ -130,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Darpan181/DSA_cpp/tree/master/0460-lfu-cache) |
+| [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -195,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Darpan181/DSA_cpp/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Darpan181/DSA_cpp/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Darpan181/DSA_cpp/tree/master/1092-shortest-common-supersequence) |
