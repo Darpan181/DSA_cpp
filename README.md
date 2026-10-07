@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Darpan181/DSA_cpp/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Darpan181/DSA_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Darpan181/DSA_cpp/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Darpan181/DSA_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Darpan181/DSA_cpp/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Darpan181/DSA_cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Darpan181/DSA_cpp/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Darpan181/DSA_cpp/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Darpan181/DSA_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Darpan181/DSA_cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Darpan181/DSA_cpp/tree/master/0678-valid-parenthesis-string) |
