@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Darpan181/DSA_cpp/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Darpan181/DSA_cpp/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/Darpan181/DSA_cpp/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darpan181/DSA_cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Darpan181/DSA_cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Darpan181/DSA_cpp/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Darpan181/DSA_cpp/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Darpan181/DSA_cpp/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Darpan181/DSA_cpp/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/Darpan181/DSA_cpp/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Darpan181/DSA_cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darpan181/DSA_cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Darpan181/DSA_cpp/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Darpan181/DSA_cpp/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/Darpan181/DSA_cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Darpan181/DSA_cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Darpan181/DSA_cpp/tree/master/1386-cinema-seat-allocation) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Darpan181/DSA_cpp/tree/master/0079-word-search) |
 | [0827-making-a-large-island](https://github.com/Darpan181/DSA_cpp/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Darpan181/DSA_cpp/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Darpan181/DSA_cpp/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/Darpan181/DSA_cpp/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darpan181/DSA_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
