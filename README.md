@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Darpan181/DSA_cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Darpan181/DSA_cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Darpan181/DSA_cpp/tree/master/2685-count-the-number-of-complete-components) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Darpan181/DSA_cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Darpan181/DSA_cpp/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Darpan181/DSA_cpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Darpan181/DSA_cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Darpan181/DSA_cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Darpan181/DSA_cpp/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darpan181/DSA_cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Darpan181/DSA_cpp/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Darpan181/DSA_cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Darpan181/DSA_cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Darpan181/DSA_cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Darpan181/DSA_cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Darpan181/DSA_cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
