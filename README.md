@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Darpan181/DSA_cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Darpan181/DSA_cpp/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Darpan181/DSA_cpp/tree/master/0322-coin-change) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Darpan181/DSA_cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Darpan181/DSA_cpp/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Darpan181/DSA_cpp/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Darpan181/DSA_cpp/tree/master/0494-target-sum) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Darpan181/DSA_cpp/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Darpan181/DSA_cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Darpan181/DSA_cpp/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Darpan181/DSA_cpp/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Darpan181/DSA_cpp/tree/master/0877-stone-game) |
